@@ -4,4 +4,4 @@
 
 <My graduation complete in june 2023 from BBDIT (Babu Babu banarsi Das Institute Of Technology)
 
-<My skill in HTMl,CSS JavaScript and Boostrap with good specking
+<My skill in HTMl,CSS, JavaScript, react and Boostrap with good specking
